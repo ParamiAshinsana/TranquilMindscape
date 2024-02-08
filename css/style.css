@@ -79,7 +79,8 @@ body{
 }
 .content h2{
   position: absolute;
-  top: 25vh;
+  top: 30vh;
+  left: 6vw;
   font-size: 80px;
   color: silver;
   font-weight: 600;
