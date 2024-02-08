@@ -126,4 +126,10 @@ nav .logo{
 #navbarNav .navbar-nav .nav-item a {
   color: mediumvioletred;
 }
+nav .logo{
+  width: 50px;
+}
+#navbarNav .navbar-nav .nav-item a {
+  color: mediumvioletred;
+}
 
