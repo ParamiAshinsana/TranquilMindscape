@@ -47,7 +47,19 @@ body{
 }
 .first{
   height: 1500px;
-  background-color: #664d03;
+  border: 2px solid black;
+}
+.second{
+  height: 1500px;
+  border: 2px solid black;
+}
+.third{
+  height: 1500px;
+  border: 2px solid black;
+}
+.forth{
+  height: 1500px;
+  border: 2px solid black;
 }
 .content{
   text-align: center;
@@ -95,6 +107,7 @@ body{
 nav .logo{
   width: 50px;
 }
-.navbar-brand{
-
+#navbarNav .navbar-nav .nav-item a {
+  color: mediumvioletred;
 }
+
