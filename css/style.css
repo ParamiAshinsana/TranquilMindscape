@@ -66,6 +66,8 @@ body{
   height: 695px;
 }
 .content h1{
+  position: absolute;
+  top: 45vh;
   font-size: 160px;
   color: silver;
   font-weight: 600;
