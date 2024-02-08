@@ -68,6 +68,7 @@ body{
 .content h1{
   position: absolute;
   top: 45vh;
+  left: 1vw;
   font-size: 80px;
   color: silver;
   font-weight: 600;
@@ -79,7 +80,7 @@ body{
 }
 .content h2{
   position: absolute;
-  top: 30vh;
+  top: 32vh;
   left: 6vw;
   font-size: 80px;
   color: silver;
