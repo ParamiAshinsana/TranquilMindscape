@@ -68,7 +68,7 @@ body{
 .content h1{
   position: absolute;
   top: 45vh;
-  font-size: 160px;
+  font-size: 100px;
   color: silver;
   font-weight: 600;
   transition: 0.5s;
@@ -80,7 +80,7 @@ body{
 .content h2{
   position: absolute;
   top: 25vh;
-  font-size: 160px;
+  font-size: 100px;
   color: silver;
   font-weight: 600;
   transition: 0.5s;
